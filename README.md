@@ -5,32 +5,24 @@
 </p>
 
 <h2 >Jr. Full Stack Developer<picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+    <!-- <img src=""> -->
 </picture></h2>
 
 
-
-
-
-
-  <h2 > Su di me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
- 
- javascript
-const Froy = 
-{
-    age: "25 y/o",
+<!-- Javascript -->
+  ```javascript
+const Froy = {
+    pronouns: "He/Him",
+    age: "23 y/o",
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
-    technologies: 
-    {
-        backEnd: 
-        {
+    technologies: {
+        backEnd: {
             Js: ["Node"],
             Java: ["Java"],
             SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
-        frontEnd: 
-        {
+        frontEnd: {
             html: ["HTML"],
             css: ["CSS"],
             js: ["JavaScript"],
@@ -45,10 +37,19 @@ const Froy =
     currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
     preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
     languages: {
-        italiano: "Madrelingua",
+        spagnolo: "Madrelingua",
+        italiano: "Avanzato",
         inglese: "Intermedio"
-    }
+    }
 };
+```
+
+
+
+
+  <h2 > Su di me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+ 
+
 
 
 
@@ -69,11 +70,11 @@ const Froy =
  
 <h2>Contattami <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70" heigth= 20 style="margin-left: 200px;"></h2>
 <div>
-<a href="https://www.linkedin.com/in/froylan-lamus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Froylan%20Lamus-blue?style=flat-square&logo=linkedin"></a>
-<a href="unifroy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-unifroy@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/eduardo-penna-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Penna-blue?style=flat-square&logo=linkedin"></a>
+<a href="eduardopenna1999@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-eduardopenna1999@outlook.com-blue?style=flat-square&logo=maildotru"></a>  
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Difroy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="difroy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardinho99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="eduardinho99" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=Difroy&label=Profile%20views&color=0e75b6&style=flat" alt="Difroy" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=eduardinho99&label=Profile%20views&color=0e75b6&style=flat" alt="eduardinho99" /> </p>
