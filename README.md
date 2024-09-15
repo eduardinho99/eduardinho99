@@ -16,18 +16,22 @@
   <h2 > Su di me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
  
  javascript
-const Froy = {
+const Froy = 
+{
     pronouns: "He/Him",
     age: "23 y/o",
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
-    technologies: {
-        backEnd: {
+    technologies: 
+    {
+        backEnd: 
+        {
             Js: ["Node"],
             Java: ["Java"],
             SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
-        frontEnd: {
+        frontEnd: 
+        {
             html: ["HTML"],
             css: ["CSS"],
             js: ["JavaScript"],
@@ -42,8 +46,7 @@ const Froy = {
     currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
     preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
     languages: {
-        spagnolo: "Madrelingua",
-        italiano: "Avanzato",
+        italiano: "Madrelingua",
         inglese: "Intermedio"
     }
 };
@@ -60,11 +63,10 @@ const Froy = {
   <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular" alt="Angular"/>
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring" alt="Spring"/>
   <img src="https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf" alt="Thymeleaf"/>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=XAMPP" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/-SAP-333333?style=flat&logo=SAP" alt="SAP"/>
 </div>
  
 <h2>Contattami <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70" heigth= 20 style="margin-left: 200px;"></h2>
