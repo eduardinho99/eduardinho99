@@ -18,8 +18,7 @@
  javascript
 const Froy = 
 {
-    pronouns: "He/Him",
-    age: "23 y/o",
+    age: "25 y/o",
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
     technologies: 
     {
@@ -65,7 +64,6 @@ const Froy =
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java"/>
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring" alt="Spring"/>
-  <img src="https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf" alt="Thymeleaf"/>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL"/>
 </div>
  
