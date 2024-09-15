@@ -13,7 +13,7 @@
   ```javascript
 const Froy = {
     pronouns: "He/Him",
-    age: "23 y/o",
+    age: "25 y/o",
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
     technologies: {
         backEnd: {
@@ -37,8 +37,7 @@ const Froy = {
     currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
     preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
     languages: {
-        spagnolo: "Madrelingua",
-        italiano: "Avanzato",
+        italiano: "Madrelingua",
         inglese: "Intermedio"
     }
 };
@@ -66,6 +65,7 @@ const Froy = {
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring" alt="Spring"/>
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle" alt="Oracle"/>
 </div>
  
 <h2>Contattami <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70" heigth= 20 style="margin-left: 200px;"></h2>
