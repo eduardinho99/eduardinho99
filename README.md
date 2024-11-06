@@ -11,10 +11,8 @@
 
 <!-- Javascript -->
   ```javascript
-const Froy = {
-    pronouns: "He/Him",
-    age: "25 y/o",
-    askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
+const Eduardo = {
+    age: "25",
     technologies: {
         backEnd: {
             Java: ["Java"],
