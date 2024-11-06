@@ -17,25 +17,18 @@ const Froy = {
     askMeAbout: ["web dev", "tech", "app dev", "spirituality"],
     technologies: {
         backEnd: {
-            Js: ["Node"],
             Java: ["Java"],
-            SapModule: ["ABAP"],
             Framework: ["Spring"]
         },
         frontEnd: {
             html: ["HTML"],
             css: ["CSS"],
             js: ["JavaScript"],
-            framework: ["Bootstrap", "Thymeleaf"]
+            framework: ["Angular", "Thymeleaf"]
         },
-        devOps: ["Docker"],
         databases: ["MySQL"],
-        misc: ["XAMPP", "GitHub", "Eclipse", "phpMyAdmin"],
-        SapModule: ["FI", "MM"]
+        misc: ["GitHub", "Eclipse", "VSC"],
     },
-    architecture: ["PWA", "SPA"],
-    currentFocus: "Sono alla ricerca di un'opportunità dove possa esprimere al meglio le mie qualità",
-    preferences: "Amo lavorare nel back-end poiché mi piace approfondire tecnologie, algoritmi e strutture dati per creare sistemi scalabili, affidabili e performanti.",
     languages: {
         italiano: "Madrelingua",
         inglese: "Intermedio"
